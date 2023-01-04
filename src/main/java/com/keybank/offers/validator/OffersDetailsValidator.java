@@ -15,4 +15,5 @@ public class OffersDetailsValidator {
     }
 
     //TODO - write validations for all required element
+    //TODO - write validations for all required element
 }
